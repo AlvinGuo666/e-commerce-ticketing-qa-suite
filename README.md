@@ -41,10 +41,7 @@ Modern digital ticketing and upsell platforms require high reliability across cu
 ```text
 ├── README.md
 ├── docs/
-│   ├── test-plan-overview.md
-│   └── bug-report-examples.md
+│   ├── test-plan-and-summary.md
+│   └── bug-reports.md
 └── test-cases/
-    ├── 01-upsell-and-checkout.md
-    ├── 02-inventory-and-modification.md
-    ├── 03-registration-and-redemption.md
-    └── 04-cross-platform-and-analytics.md
+    └── fastpass-functional-integration-cases.md
